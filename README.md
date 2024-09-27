@@ -2,7 +2,22 @@
 
 ---
 ## Level
-**Level Atual:** 1
+**Level Atual:** 2
+
+---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** Ok
+	- **Ex2:** Ok
+	- **Ex3:** Incorreto, média está sendo calculada errado
+- **Aula 02:**
+	- **Ex4:** Ok
+	- **Ex5:** Ok
+	- **Ex6:** Ok
+	
+- Geral: faça os exercícios em arquivos diferentes
+- Geral: se acostume a colocar nomes significativos nas variáveis
 
 ---
 ## Conquistas
