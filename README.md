@@ -10,7 +10,7 @@
 - **Aula 01:**
 	- **Ex1:** Ok
 	- **Ex2:** Ok
-	- **Ex3:** Incorreto, média está sendo calculada errado
+	- **Ex3:** Incorreto, média está sendo calculada errado | > `⚠️ [HENRIKE] - EXERCÍCIO REFEITO ⚠️`
 - **Aula 02:**
 	- **Ex4:** Ok
 	- **Ex5:** Ok
